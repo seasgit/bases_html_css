@@ -28,7 +28,7 @@ Des tutos pour tout !  _Mais attention à filtrer pas date._
 Chaque chapitre contient des aides, des liens et des extraits de code.
 Ce support de cours n'est pas une documentation exhaustive de HTML/CSS, c'est un guide de progression du cours de l'enseignant.   
 
-[HTML5](https://github.com/seasgit/aide_html_css.wiki/wiki/A-introduction)   
+[HTML5](https://github.com/seasgit/aide_html_css.wiki/A-introduction)   
 [Unites](https://github.com/seasgit/aide_html_css.wiki/wiki/B-unites)   
 [Box Model](https://github.com/seasgit/aide_html_css.wiki/wiki/C-box-model) Modèles de boîtes  
 [Selecteurs](https://github.com/seasgit/aide_html_css.wiki/wiki/D-selecteurs) Comment sélectionner un élement HTML et lui appliquer un style.  
