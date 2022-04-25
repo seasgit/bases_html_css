@@ -7,15 +7,15 @@
 Installer Visual Studio Code : https://code.visualstudio.com/  
 ## Extension Emmet 
 Installer __Emmet__ dans un IDE permet de coder plus vite et sans erreur.  
-![](./cours-html-css-21-22.wiki/captures/emmet.jpg)
+![](./aide_html_css.wiki/captures/emmet.jpg)
 La doc Emmet : https://docs.emmet.io/  
 Il est aussi présent dans Codepen et facile à installer.  
 ## Extension Live server
 Il permet d'exécuter une page dans un serveur local.  
-![](./cours-html-css-21-22.wiki/captures/liveserver.jpg)
+![](./aide_html_css.wiki/captures/liveserver.jpg)
 ## Extension beautify
 Il permet d'indenter le code afin de rendre plus lisible la hiérarchie des balises   
-![](./cours-html-css-21-22.wiki/captures/liveserver.jpg)
+![](./aide_html_css.wiki/captures/liveserver.jpg)
 
 ## Documentation Mozilla
 Mozilla propose un site de référence à la fois glossaire et tutoriel.    
@@ -28,10 +28,10 @@ Des tutos pour tout !  _Mais attention à filtrer pas date._
 Chaque chapitre contient des aides, des liens et des extraits de code.
 Ce support de cours n'est pas une documentation exhaustive de HTML/CSS, c'est un guide de progression du cours de l'enseignant.   
 
-[HTML5](https://github.com/seasgit/cours-html-css-21-22/wiki/A-introduction)   
-[Unites](https://github.com/seasgit/cours-html-css-21-22/wiki/B-unites)   
-[Box Model](https://github.com/seasgit/cours-html-css-21-22/wiki/C-box-model) Modèles de boîtes  
-[Selecteurs](https://github.com/seasgit/cours-html-css-21-22/wiki/D-selecteurs) Comment sélectionner un élement HTML et lui appliquer un style.  
-[Images](https://github.com/seasgit/cours-html-css-21-22/wiki/E-image)  
-[Position](https://github.com/seasgit/cours-html-css-21-22/wiki/F-positions) Placements et superpositions   
-[Display](https://github.com/seasgit/cours-html-css-21-22/wiki/G-display) Alignement et gabarits de page  
+[HTML5](https://github.com/seasgit/aide_html_css.wiki/wiki/A-introduction)   
+[Unites](https://github.com/seasgit/aide_html_css.wiki/wiki/B-unites)   
+[Box Model](https://github.com/seasgit/aide_html_css.wiki/wiki/C-box-model) Modèles de boîtes  
+[Selecteurs](https://github.com/seasgit/aide_html_css.wiki/wiki/D-selecteurs) Comment sélectionner un élement HTML et lui appliquer un style.  
+[Images](https://github.com/seasgit/aide_html_css.wiki/wiki/E-image)  
+[Position](https://github.com/seasgit/aide_html_css.wiki/wiki/F-positions) Placements et superpositions   
+[Display](https://github.com/seasgit/aide_html_css.wiki/wiki/G-display) Alignement et gabarits de page  
